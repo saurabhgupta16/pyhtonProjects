@@ -1,0 +1,21 @@
+i am in info mode
+i am in warning mode
+i am in error mode
+i am in critical mode
+2024-11-02 08:42:26,701 :INFO : Pytest.test_logging :i am in info mode
+2024-11-02 08:42:26,701 :WARNING : Pytest.test_logging :i am in warning mode
+2024-11-02 08:42:26,701 :ERROR : Pytest.test_logging :i am in error mode
+2024-11-02 08:42:26,701 :CRITICAL : Pytest.test_logging :i am in critical mode
+2024-11-02 08:43:23,735 :ERROR : Pytest.test_logging :i am in error mode
+2024-11-02 08:43:23,736 :CRITICAL : Pytest.test_logging :i am in critical mode
+2024-11-03 06:21:52,868 :INFO : Pytest.Logbase :saurabh
+2024-11-03 06:21:52,868 :INFO : Pytest.Logbase :gupta
+2024-11-03 06:21:52,869 :INFO : Pytest.Logbase :advisor360.com
+2024-11-03 06:24:51,553 :INFO : test_datalog :saurabh
+2024-11-03 06:24:51,554 :INFO : test_datalog :gupta
+2024-11-03 06:24:51,554 :INFO : test_datalog :advisor360.com
+2024-11-03 06:27:13,475 :INFO : test_datalog :saurabh
+2024-11-03 06:27:13,475 :INFO : test_datalog :gupta
+2024-11-03 06:27:13,475 :INFO : test_datalog :advisor360.com
+2024-11-03 06:27:13,477 :ERROR : Pytest.test_logging :i am in error mode
+2024-11-03 06:27:13,477 :CRITICAL : Pytest.test_logging :i am in critical mode
